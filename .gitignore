@@ -1,3 +1,7 @@
+### Gradle ###
+.gradle/
+build/
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -29,4 +33,4 @@ bin/
 .DS_Store
 
 ### LLM ###
-STUDY.md
+**/STUDY.md
